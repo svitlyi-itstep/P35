@@ -11,7 +11,7 @@ from aiogram.utils.keyboard import ReplyKeyboardBuilder, InlineKeyboardBuilder
 from states import SumStates, ButtonStates
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token="token")
+bot = Bot(token="7026397921:AAFpAYDlvhpYlcpBSxOVst4oDv1AueMU7Q4")
 dp = Dispatcher()
 
 # === BUTTONS ===
